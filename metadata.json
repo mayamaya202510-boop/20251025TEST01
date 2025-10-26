@@ -1,0 +1,5 @@
+
+{
+  "name": "Interactive Button App",
+  "description": "A simple web application with three buttons. The first button displays a greeting, the second opens Yahoo Japan in a new tab, and the third opens Google Maps in a new tab."
+}
